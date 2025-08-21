@@ -7,3 +7,10 @@ Dzięki temu można w przejrzysty sposób zobaczyć:
 * oraz jaki jest ostateczny wkład poszczególnych zawodników w dorobek klubów.
 
 Wizualizacja pozwala łatwo dostrzec różnice między zawodnikami i klubami, a także lepiej zrozumieć dynamikę rywalizacji w lidze.
+
+Wykorzystane technologie:
+* pandas
+* plotly
+* requests
+
+<img width="1400" height="1000" alt="sankey" src="https://github.com/user-attachments/assets/28e1bab4-02a3-4dc6-8892-b09c49b2009a" />
