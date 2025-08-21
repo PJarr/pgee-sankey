@@ -8,6 +8,8 @@ Dzięki temu można w przejrzysty sposób zobaczyć:
 
 Wizualizacja pozwala łatwo dostrzec różnice między zawodnikami i klubami, a także lepiej zrozumieć dynamikę rywalizacji w lidze.
 
+Dane dzięki uprzejmości: https://gurustats.pl/
+
 Wykorzystane technologie:
 * pandas
 * plotly
